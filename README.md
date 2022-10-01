@@ -1,4 +1,4 @@
-# Saturdays AI Santiago
+# Saturdays AI Santiago.
 
 ## ¿Qué es AI Saturday?
 
